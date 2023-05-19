@@ -1,8 +1,3 @@
-
-Certainly! Here's a description for your GitHub project:
-
-Title: C++ Calculator - Extended Arithmetic Operations
-
 Description: This C++ project is a calculator application designed to perform addition and subtraction operations with large numbers. It supports arithmetic calculations up to 2^64, allowing users to work with extremely large values. The calculator provides a user-friendly interface for input and displays accurate results.
 
 Key Features:
